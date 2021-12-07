@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phiponacci
-- 👀 I’m interested in web and android development,
-- 🌱 I’m currently learning deep learning, 
+- 👀 I’m interested in web, python scripting, desktop app and android development,
+- 🌱 I’m currently learning deep learning,
 - 💞️ I’m looking to collaborate on web and android project,
 - 📫 How to reach me <leo.phibonacci@gmail.com>
 
