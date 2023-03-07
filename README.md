@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phiponacci
-- 👀 I’m interested in web, python scripting, desktop app and android development,
-- 🌱 I’m currently learning deep learning,
-- 💞️ I’m looking to collaborate on web and android project,
+- 👀 I’m interested in web, .NET apps, python scripting, desktop app and android development,
+- 🌱 I’m an AI Enthusiast,
+- 💞️ I’m looking to collaborate on web and mobile projects,
 - 📫 How to reach me <leo.phibonacci@gmail.com>
 
 <!---
